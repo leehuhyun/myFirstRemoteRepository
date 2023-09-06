@@ -20,7 +20,7 @@ public class ListTest_1 {
 		arrayList.add(30);
 		
 		System.out.println(arrayList);
-		
+		// 주석추가		
 		arrayList.add(40);
 		
 		System.out.println(arrayList);
